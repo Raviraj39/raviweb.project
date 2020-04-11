@@ -1,0 +1,29 @@
+body{
+ background: url(..//images/gym.jpeg)
+    no-repeat center center fixed;
+   background-size: cover;
+    font-family: 'Permanent Marker', cursive;
+}
+div{
+    background-color:#eb4559;
+    margin: 100px auto;
+    text-align: center;
+    width: 50%;
+    border-radius: 25%;
+    opacity:0.8;
+}
+button{
+    background-color:#fa4252;
+    padding: 10px;
+    color: #f0a500;
+    font-size: 1.5em;
+    border-radius: 10px;
+    }
+h1{
+    font-size: 3em;
+    color:white; 
+}
+p{
+    font-size: 1.9em;
+    color: green;
+}
